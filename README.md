@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# ZendSkeletonApplication
+# SmallZendApplication
 
 ## Introduction
 
@@ -175,6 +174,3 @@ server {
 ```
 
 Restart the nginx, now you should be ready to go!
-=======
-# zendframework
->>>>>>> 5336c855a7462f4c21f05d804fbdfd1116fa1768
